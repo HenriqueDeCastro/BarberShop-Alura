@@ -1,6 +1,6 @@
 # BarberShop Alura
 
-### Description
+### Description:
 <div>
   <p>
     Presentation page of a pseudo barbershop.
